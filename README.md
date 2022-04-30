@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shweta2762)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shweta2762)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shweta2762)](https://github.com/anuraghazra/github-readme-stats) -->
 
