@@ -2,7 +2,7 @@
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - <a href="https://www.linkedin.com/in/shweta-rajan-nambissan-76969718b/">Linkedin</a>
+- 📫 How to reach me - 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shweta2762)](https://github.com/anuraghazra/github-readme-stats) -->
 
